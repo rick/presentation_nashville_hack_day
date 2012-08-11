@@ -1,0 +1,43 @@
+body, #preso, .slide {
+  background-color: white;
+  color: black;
+  border: none;
+  margin: none;
+}
+
+blockquote {
+  color: #ccc;
+}
+
+.larger {
+  font-size: 2em;
+}
+
+.highlight {
+  color: green;
+}
+
+.commandline code.command {
+  color: blue;
+}
+
+.goodlist {
+  color: green;
+  margin-left:  5em;
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
+pre.sh_sourceCode  {
+  color: cyan;
+  background-color: black;
+}
+
+.smallest  {
+  font-size: 50%;
+}
+
+.left-block {
+  text-align: left;
+  align: left;
+}
