@@ -314,6 +314,16 @@
 
 !SLIDE
 
+### "I'm going to start using pull requests
+### so I can get some eyes on my code"
+
+!SLIDE
+
+### "Could we have written a test that
+### would have caught that?"
+
+!SLIDE
+
 ## Don't Care
 
 !SLIDE
